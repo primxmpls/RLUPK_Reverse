@@ -1,0 +1,17 @@
+Z:\RLTM\Program Files\RLUPK\RLUPKTool-master\RLUPK_Reverse\obj\Debug\net10.0\RLUPK_Reverse.csproj.AssemblyReference.cache
+Z:\RLTM\Program Files\RLUPK\RLUPKTool-master\RLUPK_Reverse\obj\Debug\net10.0\RLUPK_Reverse.GeneratedMSBuildEditorConfig.editorconfig
+Z:\RLTM\Program Files\RLUPK\RLUPKTool-master\RLUPK_Reverse\obj\Debug\net10.0\RLUPK_Reverse.AssemblyInfoInputs.cache
+Z:\RLTM\Program Files\RLUPK\RLUPKTool-master\RLUPK_Reverse\obj\Debug\net10.0\RLUPK_Reverse.AssemblyInfo.cs
+Z:\RLTM\Program Files\RLUPK\RLUPKTool-master\RLUPK_Reverse\obj\Debug\net10.0\RLUPK_Reverse.csproj.CoreCompileInputs.cache
+Z:\RLTM\Program Files\RLUPK\RLUPKTool-master\RLUPK_Reverse\bin\Debug\net10.0\RLUPK_Reverse.exe
+Z:\RLTM\Program Files\RLUPK\RLUPKTool-master\RLUPK_Reverse\bin\Debug\net10.0\RLUPK_Reverse.deps.json
+Z:\RLTM\Program Files\RLUPK\RLUPKTool-master\RLUPK_Reverse\bin\Debug\net10.0\RLUPK_Reverse.runtimeconfig.json
+Z:\RLTM\Program Files\RLUPK\RLUPKTool-master\RLUPK_Reverse\bin\Debug\net10.0\RLUPK_Reverse.dll
+Z:\RLTM\Program Files\RLUPK\RLUPKTool-master\RLUPK_Reverse\bin\Debug\net10.0\RLUPK_Reverse.pdb
+Z:\RLTM\Program Files\RLUPK\RLUPKTool-master\RLUPK_Reverse\bin\Debug\net10.0\ICSharpCode.SharpZipLib.dll
+Z:\RLTM\Program Files\RLUPK\RLUPKTool-master\RLUPK_Reverse\obj\Debug\net10.0\RLUPK_Re.9BE28BAB.Up2Date
+Z:\RLTM\Program Files\RLUPK\RLUPKTool-master\RLUPK_Reverse\obj\Debug\net10.0\RLUPK_Reverse.dll
+Z:\RLTM\Program Files\RLUPK\RLUPKTool-master\RLUPK_Reverse\obj\Debug\net10.0\refint\RLUPK_Reverse.dll
+Z:\RLTM\Program Files\RLUPK\RLUPKTool-master\RLUPK_Reverse\obj\Debug\net10.0\RLUPK_Reverse.pdb
+Z:\RLTM\Program Files\RLUPK\RLUPKTool-master\RLUPK_Reverse\obj\Debug\net10.0\RLUPK_Reverse.genruntimeconfig.cache
+Z:\RLTM\Program Files\RLUPK\RLUPKTool-master\RLUPK_Reverse\obj\Debug\net10.0\ref\RLUPK_Reverse.dll
